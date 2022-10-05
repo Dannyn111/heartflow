@@ -1,0 +1,430 @@
+
+.VolunteerSignUp_VolunteerSignUp {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1142.5px;
+	overflow: auto;
+	background: rgb(255, 255, 255);
+}
+
+.VolunteerSignUp_VolunteerSignUp .logo {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	width: 500px;
+	height: 150px;
+	object-fit: cover;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .emblem {
+	position: fixed;
+	top: 148px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	object-fit: cover;
+	overflow: hidden;
+	z-index: 0;
+	resize: none;
+}
+
+.VolunteerSignUp_VolunteerSignUp .pnlMain {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 160px;
+	width: 920px;
+	height: 770px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 33.199999999999996px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	opacity: 0.95;
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .BRANCH {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 299.7px;
+	width: 102.08999999999999px;
+	height: 25.73px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.34375px;
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .edtBranch {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 325.43px;
+	font-size: 20px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .SIGNUP {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 10px;
+	width: 300px;
+	height: 52.29px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgb(224, 64, 64);
+	font-family: Montserrat;
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 31.125px;
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .btnBack {
+	position: absolute;
+	left: 50px;
+	top: 47.5px;
+	width: 200px;
+	height: 55px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 40px;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+}
+	
+.VolunteerSignUp_VolunteerSignUp .btnBack:hover {
+	background: rgb(0, 225, 255);
+	transition: 0.25s;
+	transform: scale(1.05);
+}
+
+.VolunteerSignUp_VolunteerSignUp .edtName {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 108px;
+	width: 345.28px;
+	font-size: 20px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .edtSurname {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 217px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	font-size: 20px;
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .edtEmail {
+	position: absolute;
+	left: 80px;
+	font-size: 20px;
+	top: 432.5px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .edtCell {
+	position: absolute;
+	right: 80px;
+	font-size: 20px;
+	top: 432.5px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .NAME {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 83px;
+	width: 70.55px;
+	height: 24.9px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.34375px;
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .SURNAME {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 191px;
+	width: 102.08999999999999px;
+	height: 25.73px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.34375px;
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .EMAIL {
+	position: absolute;
+	left: 172px;
+	top: 408.43px;
+	width: 180px;
+	height: 24.07px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.34375px;
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .CELL {
+	position: absolute;
+	right: 160px;
+	top: 408.43px;
+	width: 180px;
+	height: 24.07px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.34375px;
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .btnConfirm {
+	position: absolute;
+	right: 0;
+	left: 0;
+	margin-right: auto;
+	margin-left: auto;
+	top: 690px;
+	width: 200px;
+	height: 55px;
+	background: rgb(224, 64, 64);
+	border-radius: 40px;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	border: 0px;
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: -50px;
+	z-index: 1;
+}
+	
+.VolunteerSignUp_VolunteerSignUp .btnConfirm:hover {
+	background: rgb(0, 0, 83);
+	transition: 0.25s;
+	transform: scale(1.05);
+}
+
+.VolunteerSignUp_VolunteerSignUp .edtReason {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 547px;
+	width: 841.62px;
+	height: 122.83999999999999px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	z-index: 1;
+}
+.VolunteerSignUp_VolunteerSignUp .REASONFORWANTINGTOBECOMEAVOLUNTEER {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 522.14px;
+	width: 550px;
+	height: 24.07px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.34375px;
+	z-index: 1;
+}
+
+.VolunteerSignUp_VolunteerSignUp .emailError {
+	position: absolute;
+	left: 43%;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 622.5px;
+	width: 400px;
+	height: 24.07px;
+	font-family: Poppins;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	background: rgb(224, 64, 64);
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.VolunteerSignUp_VolunteerSignUp  .Header {
+	position: absolute;
+	top: 0;
+	margin-top: 0;
+	width: 100%;
+	height: 150px;
+	background: rgb(224, 64, 64);
+}
+
+.VolunteerSignUp_VolunteerSignUp .Footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 200px;
+	background: rgb(0, 0, 83);
+	z-index: 0;
+}
+
+.VolunteerSignUp_VolunteerSignUp  .CONTACT {
+	position: absolute;
+	left: 30px;
+	top: 15px;
+	width: 300px;
+	height: 52.29px;
+	display: flex;
+	justify-content: left;
+	text-align: center;
+	align-items: center;
+	color: rgb(255, 255, 255);
+	font-family: Montserrat;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 31.125px;
+}
+
+.VolunteerSignUp_VolunteerSignUp .IG_logo {
+	position: absolute;
+	top: 100px;
+	left: 30px;
+	width: 50px;
+	object-fit: cover;
+	overflow: hidden;
+	resize: none;
+}
+
+.VolunteerSignUp_VolunteerSignUp .IG_logo:hover {
+	opacity: 0.5;
+	transition: 0.15s;
+}
+
+ .VolunteerSignUp_VolunteerSignUp .FB_logo {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	width: 50px;
+	object-fit: cover;
+	overflow: hidden;
+	resize: none;
+}
+
+.VolunteerSignUp_VolunteerSignUp .FB_logo:hover {
+	opacity: 0.5;
+	transition: 0.15s;
+}
+
+.VolunteerSignUp_VolunteerSignUp .emailError {
+	position: absolute;
+	right: 320px;
+	bottom: 180px;
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	color: #ba2121;
+}

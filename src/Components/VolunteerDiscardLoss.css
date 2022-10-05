@@ -1,0 +1,302 @@
+
+.VolunteerDiscardLoss_VolunteerDiscardLoss {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1000px;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .topBanner {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1434.24px;
+	height: 136.12px;
+	background: rgb(224, 64, 64);
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .logo {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 500px;
+	height: 150px;
+	object-fit: cover;
+	overflow: hidden;
+	z-index: 1;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .pnlMain {
+	position: absolute;
+	left: 258.13px;
+	top: 233.23px;
+	width: 917.9799999999999px;
+	height: 671.4699999999999px;
+	background: rgb(224, 64, 64);
+	border-radius: 49.8px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .edtStart {
+	position: absolute;
+	left: 780.1999999999999px;
+	top: 434.09px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .edtSerial {
+	position: absolute;
+	left: 780.1999999999999px;
+	top: 352.75px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .SERIALLETTER {
+	position: absolute;
+	left: 291.33px;
+	top: 361.88px;
+	width: 380.96999999999997px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .RANGEEND {
+	position: absolute;
+	left: 291.33px;
+	top: 527.88px;
+	width: 380.96999999999997px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .RANGESTART {
+	position: absolute;
+	left: 291.33px;
+	top: 444.88px;
+	width: 380.96999999999997px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .btnConfirm {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	position: absolute;
+	background: rgb(224, 64, 64);
+	position: absolute;
+	left: 959.4799999999999px;
+	top: 830px;
+	width: 11.574074074074074%;
+	height: 6.087735004476276%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	font-size: 16.88px;
+	box-sizing: border-box;
+}
+
+.VolunteerDiscardLoss_VolunteerDiscardLoss .btnConfirm :hover {
+	background: rgb(0, 225, 255);
+	color: rgb(0, 0, 0);
+	transition: 0.25s;
+	transform: scale(1.05);
+ }
+
+
+.VolunteerDiscardLoss_VolunteerDiscardLoss .CONFIRM {
+	position: absolute;
+	left: 963.63px;
+	top: 836.64px;
+	width: 157.7px;
+	height: 42.33px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .NUMBEROFCOUPONS {
+	position: absolute;
+	left: 291.33px;
+	top: 278.88px;
+	width: 323.7px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .REASONFORDISCARD {
+	position: absolute;
+	left: 291.33px;
+	top: 625.8199999999999px;
+	width: 370.18px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .COUPONSDISCARDLOST {
+	position: absolute;
+	left: 484.71999999999997px;
+	top: 55px;
+	width: 463.96999999999997px;
+	height: 65.72px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: white;
+	
+	font-family: Poppins;
+	font-size: 34px;
+	font-weight: 500;
+	border-radius: 14pt;
+	line-height: 35.015625px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .btnBack {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	position: absolute;
+	background: rgb(224, 64, 64);
+	position: absolute;
+	left: 1219.27px;
+	top: 42.33px;
+	width: 11.574074074074074%;
+	height: 6.087735004476276%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+}
+
+.VolunteerDiscardLoss_VolunteerDiscardLoss .btnBack:hover {
+	background: rgb(0, 225, 255);
+	color: rgb(0, 0, 0);
+	transition: 0.25s;
+	transform: scale(1.05);
+ }
+
+.VolunteerDiscardLoss_VolunteerDiscardLoss .BACK {
+	position: absolute;
+	left: 1260.77px;
+	top: 55.61px;
+	width: 83px;
+	height: 29.88px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	background: rgb(224, 64, 64);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 500;
+	line-height: 23.34375px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .edtNrCoupon {
+	position: absolute;
+	left: 780.1999999999999px;
+	top: 269.75px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .edtEnd {
+	position: absolute;
+	left: 780.1999999999999px;
+	top: 518.75px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+.VolunteerDiscardLoss_VolunteerDiscardLoss .edtReason {
+	position: absolute;
+	left: 291.33px;
+	top: 681.43px;
+	width: 834.15px;
+	height: 122.83999999999999px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 16.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.VolunteerDiscardLoss_VolunteerDiscardLoss .Header {
+	position: absolute;
+	top: 0;
+	margin-top: 0;
+	width: 100%;
+	height: 150px;
+	background: rgb(224, 64, 64);
+}
+
+.VolunteerDiscardLoss_VolunteerDiscardLoss .Footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 200px;
+	background: rgb(0, 0, 83);
+}

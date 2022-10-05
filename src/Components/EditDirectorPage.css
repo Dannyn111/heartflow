@@ -1,0 +1,323 @@
+
+.EditDirectorPage_EditDirectorPage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgb(224, 64, 64);
+}
+.EditDirectorPage_EditDirectorPage .EDITPROFILE {
+	position: absolute;
+	left: 49%;
+	top: 157.7px;
+	transform: translate(-50%, 0);
+	width: 590.9599999999999px;
+	height: 50.629999999999995px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 53.12px;
+	font-weight: 500;
+	line-height: 62.25px;
+}
+.EditDirectorPage_EditDirectorPage .btnCancel {
+	position: absolute;
+	left: 50px;
+	top: 27px;
+	width: 200px;
+	height: 55px;
+	background: rgba(255,255,255,1.00);
+	color:rgb(0, 0, 0);
+	border-radius: 40px;
+}
+
+.EditDirectorPage_EditDirectorPage .btnCancel:hover {
+	background: rgb(0, 225, 255);
+	transition: 0.25s;
+	transform: scale(1.05);
+}
+
+.EditDirectorPage_EditDirectorPage .CANCEL {
+	position: absolute;
+	left: 90.47px;
+	top: 40.669999999999995px;
+	width: 83px;
+	height: 29.88px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	background: rgb(224, 64, 64);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 500;
+	line-height: 23.34375px;
+}
+.EditDirectorPage_EditDirectorPage .btnApply {
+	position: absolute;
+	right: 50px;
+	top: 27px;
+	width: 200px;
+	height: 55px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 40px;
+}
+
+.EditDirectorPage_EditDirectorPage .btnApply:hover {
+	background: rgb(0, 225, 255);
+	transition: 0.25s;
+	transform: scale(1.05);
+}
+
+.EditDirectorPage_EditDirectorPage .APPLY {
+	position: absolute;
+	left: 1237.53px;
+	top: 41.5px;
+	width: 129.48px;
+	height: 28.22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 500;
+	line-height: 23.34375px;
+}
+.EditDirectorPage_EditDirectorPage .pnlMain {
+	position: absolute;
+	left: 511.28px;
+	top: 232.39999999999998px;
+	width: 411.68px;
+	height: 700.15px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 33.199999999999996px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.EditDirectorPage_EditDirectorPage .NUMBER {
+	position: absolute;
+	left: 602.5799999999999px;
+	top: 581.92999999999995px;
+	width: 227.42px;
+	height: 24.07px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.EditDirectorPage_EditDirectorPage .edtCurrPass {
+	position: absolute;
+	left: 543.65px;
+	top: 283.03px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.EditDirectorPage_EditDirectorPage .edtName {
+	position: absolute;
+	left: 543.65px;
+	top: 283.03px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+.EditDirectorPage_EditDirectorPage .edtSurname {
+	position: absolute;
+	left: 544.48px;
+	top: 390.93px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.EditDirectorPage_EditDirectorPage .edtEmail {
+	position: absolute;
+	left: 544.48px;
+	top: 498.93px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.EditDirectorPage_EditDirectorPage .edtNumber {
+	position: absolute;
+	left: 544.48px;
+	top: 605.93px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.EditDirectorPage_EditDirectorPage .edtNewPass {
+	position: absolute;
+	left: 544.48px;
+	top: 712.93px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.EditDirectorPage_EditDirectorPage .edtConfPass {
+	position: absolute;
+	left: 544.48px;
+	top: 819.93px;
+	width: 345.28px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.EditDirectorPage_EditDirectorPage .edtNewPass {
+	position: absolute;
+	left: 543.65px;
+	top: 828.5799999999999px;
+	width: 346.10999999999996px;
+	height: 56.44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+.EditDirectorPage_EditDirectorPage .NAME {
+	position: absolute;
+	left: 654.87px;
+	top: 258.13px;
+	width: 122.83999999999999px;
+	height: 24.9px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.EditDirectorPage_EditDirectorPage .SURNAME {
+	position: absolute;
+	left: 636.61px;
+	top: 363.53999999999996px;
+	width: 160.19px;
+	height: 25.73px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+
+.EditDirectorPage_EditDirectorPage .EMAIL {
+	position: absolute;
+	left: 636.61px;
+	top: 471.53999999999996px;
+	width: 160.19px;
+	height: 25.73px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+
+.EditDirectorPage_EditDirectorPage .NEWPASSWORD {
+	position: absolute;
+	left: 575.1899999999999px;
+	top: 686.51px;
+	width: 283.86px;
+	height: 24.07px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.EditDirectorPage_EditDirectorPage .edtConfPass {
+	position: absolute;
+	left: 543.65px;
+	top: 710.48px;
+	width: 345.28px;
+	height: 56.44px;
+	border-radius: 16.599999999999998px;
+}
+.EditDirectorPage_EditDirectorPage .CONFIRMPASSWORD {
+	position: absolute;
+	left: 575.1899999999999px;
+	top: 794.41px;
+	width: 283.86px;
+	height: 24.07px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}

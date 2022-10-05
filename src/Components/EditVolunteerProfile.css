@@ -1,0 +1,299 @@
+
+.EditVolunteerProfile_EditVolunteerProfile {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgb(224, 64, 64);
+}
+.EditVolunteerProfile_EditVolunteerProfile .btnClose {
+	position: absolute;
+	left: 50px;
+	top: 27px;
+	width: 200px;
+	height: 55px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 40px;
+}
+
+.EditVolunteerProfile_EditVolunteerProfile .btnClose:hover {
+	background: rgb(0, 225, 255);
+	transition: 0.25s;
+	transform: scale(1.05);
+}
+
+.EditVolunteerProfile_EditVolunteerProfile .btnConfirm:hover {
+	background: rgb(0, 225, 255);
+	transition: 0.25s;
+	transform: scale(1.05);
+}
+
+.EditVolunteerProfile_EditVolunteerProfile .BACK {
+	position: absolute;
+	left: 90.47px;
+	top: 40.669999999999995px;
+	width: 83px;
+	height: 29.88px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	background: rgb(224, 64, 64);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 500;
+	line-height: 23.34375px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .pnlMain {
+	position: absolute;
+	left: 511.28px;
+	top: 110.39px;
+	width: 411.68px;
+	height: 742.02px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 49.8px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.EditVolunteerProfile_EditVolunteerProfile .edtNewPass {
+	position: absolute;
+	left: 544.48px;
+	top: 663.17px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-size: 20px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .NEWPASSWORD {
+	position: absolute;
+	left: 600.0899999999999px;
+	top: 638.27px;
+	width: 234.06px;
+	height: 24.9px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .edtName {
+	position: absolute;
+	left: 544.48px;
+	top: 155.20999999999998px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-size: 20px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .NAME {
+	position: absolute;
+	left: 600.0899999999999px;
+	top: 130.31px;
+	width: 234.06px;
+	height: 24.9px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .edtConfPass {
+	position: absolute;
+	left: 544.48px;
+	top: 765.26px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-size: 20px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .BRANCH {
+	position: absolute;
+	left: 600.0899999999999px;
+	top: 436.58px;
+	width: 234.06px;
+	height: 24.9px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .edtNumber {
+	position: absolute;
+	left: 544.48px;
+	top: 561.0799999999999px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-size: 20px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .CONFIRMPASSWORD {
+	position: absolute;
+	left: 600.0899999999999px;
+	top: 740.36px;
+	width: 234.06px;
+	height: 24.9px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .edtBranch {
+	position: absolute;
+	left: 544.48px;
+	top: 461.47999999999996px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-size: 20px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .NUMBER {
+	position: absolute;
+	left: 600.0899999999999px;
+	top: 536.18px;
+	width: 234.06px;
+	height: 24.9px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .edtEmail {
+	position: absolute;
+	left: 544.48px;
+	top: 359.39px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-size: 20px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .EMAIL {
+	position: absolute;
+	left: 600.0899999999999px;
+	top: 334.49px;
+	width: 234.06px;
+	height: 24.9px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .edtSurname {
+	position: absolute;
+	left: 544.48px;
+	top: 257.3px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-size: 20px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .SURNAME {
+	position: absolute;
+	left: 600.0899999999999px;
+	top: 232.39999999999998px;
+	width: 234.06px;
+	height: 24.9px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .btnConfirm {
+	position: absolute;
+	right: 50px;
+	top: 27px;
+	width: 200px;
+	height: 55px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 40px;
+}
+
+.EditVolunteerProfile_EditVolunteerProfile .CONFIRM {
+	position: absolute;
+	left: 1259.11px;
+	top: 36.519999999999996px;
+	width: 86.32px;
+	height: 38.18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 16.599999999999998px;
+	font-weight: 500;
+	line-height: 19.453125px;
+}
+.EditVolunteerProfile_EditVolunteerProfile .EDITPROFILE {
+	position: absolute;
+	left: 498.83px;
+	top: 38.18px;
+	width: 435.75px;
+	height: 50.629999999999995px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 53.12px;
+	font-weight: 500;
+	line-height: 62.25px;
+}
+

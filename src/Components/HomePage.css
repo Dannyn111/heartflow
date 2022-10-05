@@ -1,0 +1,233 @@
+
+.HomePage_HomePage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1142.5px;
+	overflow: auto;
+	background: rgb(256, 256, 256);
+}
+
+.HomePage_HomePage .pnlMain {
+	position: absolute;
+	right: 0;
+	left: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 191px;
+	width: 1500px;
+	height: 700px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 40px;
+	border: 1px solid rgb(0, 0, 0);
+	opacity: 0.9;
+}
+
+.HomePage_HomePage .logo {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 150px;
+	object-fit: cover;
+	overflow: hidden;
+}
+
+.HomePage_HomePage .Emblem_Small {
+	position: relative;
+	left: 20px;
+	top: 5px;
+	width: 50px;
+	object-fit: cover;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.HomePage_HomePage .btnLogin {
+	position: absolute;
+	right: 50px;
+	top: 47.5px;
+	width: 200px;
+	height: 55px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 40px;
+}
+
+.HomePage_HomePage .btnLogin:hover {
+	background: rgb(0, 225, 255);
+	transition: 0.25s;
+	transform: scale(1.05);
+ }
+
+.HomePage_HomePage .LOGIN {
+	position: absolute;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 129.48px;
+	height: 28.22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 23.34375px;
+}
+
+.HomePage_HomePage .btnVolunteer {
+	position: absolute;
+	right: 275px;
+	top: 47.5px;
+	width: 295px;
+	height: 55px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 40px;
+}
+
+.HomePage_HomePage .btnVolunteer:hover {
+	background: rgb(0, 225, 255);
+	transition: 0.25s;
+	transform: scale(1.05);
+ }
+
+.HomePage_HomePage .BECOMEAVOLUNTEER {
+	position: absolute;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 250px;
+	height: 32.37px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.HomePage_HomePage .btnBuy {
+	position: absolute;
+	left: 50px;
+	top: 47.5px;
+	width: 260px;
+	height: 55px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 40px;
+}
+
+.HomePage_HomePage .btnBuy:hover {
+	background: rgb(0, 225, 255);
+	transition: 0.25s;
+	transform: scale(1.05);
+ }
+
+.HomePage_HomePage .BUY {
+	position: absolute;
+	left: 80px;
+	top: 14px;
+	width: 160px;
+	height: 32.37px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.HomePage_HomePage .emblem {
+	position: fixed;
+	top: 148px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	object-fit: cover;
+	overflow: hidden;
+	z-index: 0;
+	resize: none;
+}
+
+.HomePage_HomePage .Header {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 150px;
+	background: rgb(224, 64, 64);
+}
+
+.HomePage_HomePage .Footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 200px;
+	background: rgb(0, 0, 83);
+	z-index: 1;
+}
+
+.HomePage_HomePage .CONTACT {
+	position: absolute;
+	left: 30px;
+	top: 15px;
+	width: 300px;
+	height: 52.29px;
+	display: flex;
+	justify-content: left;
+	text-align: center;
+	align-items: center;
+	color: rgb(255, 255, 255);
+	font-family: Montserrat;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 31.125px;
+}
+
+.HomePage_HomePage .IG_logo {
+	position: absolute;
+	top: 100px;
+	left: 30px;
+	width: 50px;
+	object-fit: cover;
+	overflow: hidden;
+	resize: none;
+}
+
+.HomePage_HomePage .IG_logo:hover {
+	opacity: 0.5;
+	transition: 0.15s;
+ }
+
+.HomePage_HomePage .FB_logo {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	width: 50px;
+	object-fit: cover;
+	overflow: hidden;
+	resize: none;
+}
+
+.HomePage_HomePage .FB_logo:hover {
+	opacity: 0.5;
+	transition: 0.15s;
+ }

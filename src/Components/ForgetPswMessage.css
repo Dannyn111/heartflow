@@ -1,0 +1,57 @@
+
+.ForgetPswMessage_ForgetPswMessage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgb(224, 64, 64);
+}
+.ForgetPswMessage_ForgetPswMessage .SENT {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 912.17px;
+	height: 316.22999999999996px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 33.199999999999996px;
+	font-weight: 500;
+	line-height: 38.90625px;
+}
+
+.ForgetPswMessage_ForgetPswMessage .btnProceed {
+	position: absolute;
+	bottom: 330px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	height: 55px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 40px;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+}
+	
+.ForgetPswMessage_ForgetPswMessage .btnProceed:hover {
+	background: rgb(0, 225, 255);
+	transition: 0.25s;
+}

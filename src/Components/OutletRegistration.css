@@ -1,0 +1,421 @@
+
+.OutletRegistration_OutletRegistration {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1142.5px;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+
+.OutletRegistration_OutletRegistration .topBanner {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1434.24px;
+	height: 136.12px;
+	background: rgb(224, 64, 64);
+}
+
+.OutletRegistration_OutletRegistration .logo {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 500px;
+	height: 150px;
+	object-fit: cover;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.OutletRegistration_OutletRegistration .pnlMain {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 180px;
+	width: 917.9799999999999px;
+	height: 730px;
+	background: rgb(224, 64, 64);
+	border-radius: 49.8px;
+}
+
+.OutletRegistration_OutletRegistration .edtPayAgree {
+	position: absolute;
+	right: 50px;
+	top: 510px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.OutletRegistration_OutletRegistration .edtPolicy {
+	position: absolute;
+	right: 50px;
+	top: 580px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.OutletRegistration_OutletRegistration .BRANCH {
+	position: absolute;
+	left: 50px;
+	top: 440px;
+	width: 131.14px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+
+.OutletRegistration_OutletRegistration .PAYMENTAGREEMENT {
+	position: absolute;
+	left: 50px;
+	top: 510px;
+	width: 336.97999999999996px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+
+.OutletRegistration_OutletRegistration .FOLLOWUPPOLICY {
+	position: absolute;
+	left: 50px;
+	top: 580px;
+	width: 336.97999999999996px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+
+.OutletRegistration_OutletRegistration .ADDRESS {
+	position: absolute;
+	left: 50px;
+	top: 370px;
+	width: 155.20999999999998px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+
+.OutletRegistration_OutletRegistration .REPRESENTATIVEEMAIL {
+	position: absolute;
+	left: 50px;
+	top: 230px;
+	width: 330.34px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+
+.OutletRegistration_OutletRegistration .REPCONTACTNO {
+	position: absolute;
+	left: 50px;
+	top: 300px;
+	width: 550.29px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+
+.OutletRegistration_OutletRegistration .REPRESENTATIVENAME {
+	position: absolute;
+	left: 50px;
+	top: 160px;
+	width: 336.15px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+
+.OutletRegistration_OutletRegistration .edtBranch {
+	position: absolute;
+	right: 50px;
+	top: 430px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.OutletRegistration_OutletRegistration .edtAddress {
+	position: absolute;
+	right: 50px;
+	top: 360px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.OutletRegistration_OutletRegistration .edtRepNr {
+	position: absolute;
+	right: 50px;
+	top: 290px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.OutletRegistration_OutletRegistration .edtRepEmail {
+	position: absolute;
+	right: 50px;
+	top: 220px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.OutletRegistration_OutletRegistration .edtOutName {
+	position: absolute;
+	right: 50px;
+	top: 80px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.OutletRegistration_OutletRegistration .btnConfirm {
+	position: absolute;
+	right: 50px;
+	top: 650px;
+	width: 200px;
+	height: 55px;
+	background: rgba(0, 0, 83);
+	border-radius: 40px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(256, 256, 256);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	border: 0px;
+}
+
+.OutletRegistration_OutletRegistration .btnConfirm:hover {
+	background: rgb(0, 225, 255);
+	color: rgb(0, 0, 0);
+	transition: 0.25s;
+	transform: scale(1.05);
+}
+
+.OutletRegistration_OutletRegistration .edtRepName {
+	position: absolute;
+	right: 50px;
+	top: 150px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+
+.OutletRegistration_OutletRegistration .OUTLETDETAILS {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 20px;
+	width: 302.12px;
+	height: 36.37px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: white;
+	font-family: Poppins;
+	font-size: 34px;
+	font-weight: 500;
+	line-height: 35.015625px;
+	border-radius: 14pt;
+}
+
+.OutletRegistration_OutletRegistration .OUTLETNAME {
+	position: absolute;
+	left: 50px;
+	top: 90px;
+	width: 245.67999999999998px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+
+.OutletRegistration_OutletRegistration .btnBack {
+	position: absolute;
+	right: 50px;
+	top: 47.5px;
+	width: 200px;
+	height: 55px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 40px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	border: 0px;
+}
+
+.OutletRegistration_OutletRegistration .btnBack:hover {
+	background: rgb(0, 225, 255);
+	color: rgb(0, 0, 0);
+	transition: 0.25s;
+	transform: scale(1.05);
+}
+
+.OutletRegistration_OutletRegistration .BACK {
+	position: absolute;
+	left: 1260.77px;
+	top: 55.61px;
+	width: 83px;
+	height: 29.88px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	background: rgb(224, 64, 64);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 500;
+	line-height: 23.34375px;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+
+.alert {
+  padding: 20px;
+  background-color: green; /* Red */
+  color: white;
+  margin-bottom: 15px;
+}
+
+.OutletRegistration_OutletRegistration .Header {
+	position: absolute;
+	top: 0;
+	margin-top: 0;
+	width: 100%;
+	height: 150px;
+	background: rgb(224, 64, 64);
+}
+
+.OutletRegistration_OutletRegistration .Footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 200px;
+	background: rgb(0, 0, 83);
+}

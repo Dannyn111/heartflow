@@ -1,0 +1,300 @@
+
+.VolunteerPickUpPage_VolunteerPickUpPage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height:900px;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .topBanner {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1434.24px;
+	height: 136.12px;
+	background: rgb(224, 64, 64);
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .logo {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 500px;
+	height: 150px;
+	object-fit: cover;
+	overflow: hidden;
+	z-index: 1;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .pnlMain {
+	position: absolute;
+	left: 258.13px;
+	top: 260.62px;
+	width: 917.9799999999999px;
+	height: 548.63px;
+	background: rgb(224, 64, 64);
+	border-radius: 49.8px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .LOCATIONOFPICKUP {
+	position: absolute;
+	left: 291.33px;
+	top: 399.22999999999996px;
+	width: 323.7px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .SERIALLETTER {
+	position: absolute;
+	left: 291.33px;
+	top: 482.22999999999996px;
+	width: 323.7px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .RANGEEND {
+	position: absolute;
+	left: 291.33px;
+	top: 648.23px;
+	width: 323.7px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .RANGESTART {
+	position: absolute;
+	left: 291.33px;
+	top: 571.87px;
+	width: 323.7px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .btnConfirm {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	position: absolute;
+	background: rgb(224, 64, 64);
+	position: absolute;
+	left: 976.0799999999999px;
+	top: 722.0999999999999px;
+	width: 11.574074074074074%;
+	height: 6.087735004476276%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-size: 12pt;
+}
+
+.VolunteerPickUpPage_VolunteerPickUpPage .btnConfirm:hover {
+	background: rgb(0, 225, 255);
+	color: rgb(0, 0, 0);
+	transition: 0.25s;
+	transform: scale(1.05);
+ }
+
+ .VolunteerPickUpPage_VolunteerPickUpPage .btnBack:hover {
+	background: rgb(0, 225, 255);
+	color: rgb(0, 0, 0);
+	transition: 0.25s;
+	transform: scale(1.05);
+ }
+
+.VolunteerPickUpPage_VolunteerPickUpPage .CONFIRM {
+	position: absolute;
+	left: 980.2299999999999px;
+	top: 728.74px;
+	width: 157.7px;
+	height: 42.33px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 19.919999999999998px;
+	font-weight: 400;
+	line-height: 23.34375px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .edtLocation {
+	position: absolute;
+	left: 796.8px;
+	top: 390.09999999999997px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .edtSerial {
+	position: absolute;
+	left: 796.8px;
+	top: 473.09999999999997px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .edtEnd {
+	position: absolute;
+	left: 796.8px;
+	top: 639.1px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .edtStart {
+	position: absolute;
+	left: 796.8px;
+	top: 556.1px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .edtNrCoupon {
+	position: absolute;
+	left: 796.8px;
+	top: 307.09999999999997px;
+	width: 345.28px;
+	height: 55.61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+	font-family: Montserrat;
+	font-size: 26.56px;
+	font-weight: 500;
+	line-height: 31.125px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .NUMBEROFCOUPONS {
+	position: absolute;
+	left: 291.33px;
+	top: 316.22999999999996px;
+	width: 323.7px;
+	height: 38.18px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 29.88px;
+	font-weight: 400;
+	line-height: 35.015625px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .COUPONSPICKUP {
+	position: absolute;
+	left: 484.71999999999997px;
+	top: 55px;
+	width: 463.96999999999997px;
+	height: 69.72px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: white;
+	
+	font-family: Poppins;
+	font-size: 34px;
+	font-weight: 500;
+	line-height: 35.015625px;
+	border-radius: 14pt;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .btnBack {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	position: absolute;
+	background: rgb(224, 64, 64);
+	left: 1219.27px;
+	top: 42.33px;
+	width: 11.574074074074074%;
+	height: 6.087735004476276%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+}
+.VolunteerPickUpPage_VolunteerPickUpPage .BACK {
+	position: absolute;
+	left: 1260.77px;
+	top: 55.61px;
+	width: 83px;
+	height: 29.88px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	background: rgb(224, 64, 64);
+	font-family: Montserrat;
+	font-size: 19.919999999999998px;
+	font-weight: 500;
+	line-height: 23.34375px;
+}
+
+.VolunteerPickUpPage_VolunteerPickUpPage .Header {
+	position: absolute;
+	top: 0;
+	margin-top: 0;
+	width: 100%;
+	height: 150px;
+	background: rgb(224, 64, 64);
+}
+
+.VolunteerPickUpPage_VolunteerPickUpPage .Footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 200px;
+	background: rgb(0, 0, 83);
+}
